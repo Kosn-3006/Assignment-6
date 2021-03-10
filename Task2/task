@@ -1,0 +1,1 @@
+class BankAccount using Builder Pattern (name, balance, hasPrivelages)
